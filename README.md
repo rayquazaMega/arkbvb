@@ -1,3 +1,7 @@
+use the following command to train a simple model:
+```
+python train_mlp.py
+```
 data frame for dataset/combine_dataset.txt:
 ```
 ([line number, enemy serial number, enemy side, quantity],...,[line number, enemy serial number, enemy side, quantity],winning side)
